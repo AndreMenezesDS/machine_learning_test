@@ -109,7 +109,7 @@ _O Detalhamento da setagem dos hiperparâmetros que contextualizam os resultados
 
 <div align="center">
 
-![test_classification_results](img/est_class_results.png "Classification Results - Test Dataset")
+![test_classification_results](img/test_class_results.png "Classification Results - Test Dataset")
     
 </div>
 
